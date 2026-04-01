@@ -5,26 +5,29 @@ Forcing myself to create my first Minecraft Mod Add-on from Zero Experience of C
 
 > Devlog Series 0 - The Foundation
 
-Behind the Scenes:
+[> Behind the Scenes:
 From zero coding experience -> building a cinematic engine inside Minecraft Bedrock.
 
-Introduction:
-Hi, I’m KaiLite - 2D -> 3D Concept Artist, 3D Modeler, and Cinematic Animator.
-Creator of a custom in-game Editor Engine designed to transform Minecraft worlds into a platform for:
-• Cinematic Animations
+[> Introduction:
+Hi, I’m KaiLite - 2D -> 3D Concept Artist, 3D Modeler, and 3D Cinematic Animator.
+Creator of this Mod Add-on to bring custom in-game Editor Engine designed to transform Minecraft worlds into a platform for:
+• 3D Cinematic Animations
 • Timelapse Builds
 • Story-driven Experiences
 • Future 3D Animated Films
 
-Timeline Progress:
+[> Timeline Progress:
 Day 0 -> Writing Phase
-• Brainstorming gameplay systems, battle mechanics, worldbuilding, and storytelling structure
+• Brainstorming gameplay systems, battle mechanics, worldbuilding, and the overall Arts of Storytelling
 
-Status:
+[> Status:
 √c : Engine Core - Work in Progress
 √c : Project Development - Active
 
-Note:
-This is the official beginning of the project since March 31, 2026.
+[> Note:
+This is the official beginning of my Project which has been started since March 31, 2026 as a Lite Version
 
+[> Hashtags:
 #Minecraft #EditorEngine #Mod #Add-on #DevlogSeries0 #ArtZieStylerStudio 
+
+√c : that's it all for today's updates after March 31! see ya for tomorrow updates
